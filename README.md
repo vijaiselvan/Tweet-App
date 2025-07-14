@@ -32,13 +32,13 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
 | Feature                  | Screenshot |
 |--------------------------|------------|
 | 🔐 Login Page            | ![Login](./Assets/Login%20Page.png) |
-| 🆕 User Registration     | ![Register](assets/Registation.png) |
-| 🏠 Tweet Feed (Home)     | ![Home](assets/Home.png) |
-| 👤 Profile with Tweets   | ![Profile](assets/Profile.png) |
-| 👥 All Users             | ![Users](assets/See All Users.png) |
-| 🔍 Search User           | ![Search](assets/Search_User.png) |
-| 📄 User Schema           | ![User Schema](assets/user_schema.png) |
-| 📄 Tweet Schema          | ![Tweet Schema](assets/tweet_schema.png) |
+| 🆕 User Registration     | ![Register](./Assets/Registation.png) |
+| 🏠 Tweet Feed (Home)     | ![Home](./Assets/Home.png) |
+| 👤 Profile with Tweets   | ![Profile](./Assets/Profile.png) |
+| 👥 All Users             | ![Users](./Assets/See%20All%20Users.png) |
+| 🔍 Search User           | ![Search](./Assets/Search_User.png) |
+| 📄 User Schema           | ![User Schema](./Assets/user_schema.png) |
+| 📄 Tweet Schema          | ![Tweet Schema](./Assets/tweet_schema.png) |
 
 
 ---
