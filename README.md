@@ -36,7 +36,7 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
 | 🏠 Tweet Feed (Home)     | ![Home](./Assets/Home.png) |
 | 👤 Profile with Tweets   | ![Profile](./Assets/Profile.png) |
 | 👥 All Users             | ![Users](./Assets/See%20All%20Users.png) |
-| 🔍 Search User           | ![Search](./Assets/Search_User.png) |
+| 🔍 Search User           | ![Search](./Assets/Search%20User.png) |
 | 📄 User Schema           | ![User Schema](./Assets/user_schema.png) |
 | 📄 Tweet Schema          | ![Tweet Schema](./Assets/tweet_schema.png) |
 
