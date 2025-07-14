@@ -11,8 +11,8 @@
 
 ## 📘 Overview
 
-**Tweet App** is a secure, cloud-deployed microblogging platform built as part of the **Cognizant Digital Honors Program – Full Stack Engineering (FSE1 Certified)**.  
-It allows users to register, log in, post/edit/delete tweets, like/reply to posts, and search/view user profiles — backed by a RESTful API and deployed on AWS.
+**Tweet App** is a secure, cloud-deployed microblogging platform built as part of the **Cognizant Digital Honors Program - Full Stack Engineering (FSE1 Certified)**.  
+It allows users to register, log in, post/edit/delete tweets, like/reply to posts, and search/view user profiles - backed by a RESTful API and deployed on AWS.
 
 ---
 
@@ -110,6 +110,19 @@ npm start
 - 🧪 **Unit testing** with JUnit for backend validation
 - 🔄 **Git-based collaboration** and adherence to full **SDLC process**
 
+## 📄 Certificate
+
+**Cognizant Digital Honors Program – Full Stack Engineering (FSE1)**  
+🟢 *Certified Developer (Jul 2022 – Sept 2022)*  
+
+---
+
+## 👨‍💻 Contact
+
+**Vijai S**  
+📧 vijaiselvanvj@gmail.com  
+🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vijai-selvan/))  
+📂 [Portfolio](https://vijaiselvan.github.io/portfolio/)
 
 
 
