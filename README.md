@@ -82,18 +82,21 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
 Requirements: Java 17+, Node.js, MongoDB, Maven
 
 # Clone the repository
-git clone https://github.com/your-username/tweet-app.git
+git clone https://github.com/vijaiselvan/Tweet-App.git
 
 # Backend Setup
-> cd backend
-> mvn clean install
-> java -jar target/tweet-app.jar
+```bash
+cd backend
+mvn clean install
+java -jar target/tweet-app.jar
+```
 
 # Frontend Setup
-> cd ../frontend
-> npm install
-> npm start
-
+```bash
+cd ../frontend
+npm install
+npm start
+```
 
 
 
