@@ -88,14 +88,14 @@ git clone https://github.com/vijaiselvan/Tweet-App.git
 
 # Backend Setup
 ```bash
-cd backend
+cd TweetApp_Backend
 mvn clean install
 java -jar target/tweet-app.jar
 ```
 
 # Frontend Setup
 ```bash
-cd ../frontend
+cd TweetApp_Frontend
 npm install
 npm start
 ```
