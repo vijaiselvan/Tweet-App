@@ -31,7 +31,7 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
 
 | Feature                  | Screenshot |
 |--------------------------|------------|
-| 🔐 Login Page            | ![Login](assets/Login_Page.png) |
+| 🔐 Login Page            | ![Login](./Assets/Login%20Page.png) |
 | 🆕 User Registration     | ![Register](assets/Registation.png) |
 | 🏠 Tweet Feed (Home)     | ![Home](assets/Home.png) |
 | 👤 Profile with Tweets   | ![Profile](assets/Profile.png) |
