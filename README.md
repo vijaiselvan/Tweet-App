@@ -40,7 +40,6 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
 | 📄 User Schema           | ![User Schema](assets/user_schema.png) |
 | 📄 Tweet Schema          | ![Tweet Schema](assets/tweet_schema.png) |
 
-> Replace `assets/...` with the actual paths or GitHub URLs of your uploaded screenshots.
 
 ---
 
@@ -86,14 +85,14 @@ Requirements: Java 17+, Node.js, MongoDB, Maven
 git clone https://github.com/your-username/tweet-app.git
 
 # Backend Setup
-cd backend
-mvn clean install
-java -jar target/tweet-app.jar
+> cd backend
+> mvn clean install
+> java -jar target/tweet-app.jar
 
 # Frontend Setup
-cd ../frontend
-npm install
-npm start
+> cd ../frontend
+> npm install
+> npm start
 
 
 
