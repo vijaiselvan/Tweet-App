@@ -1,0 +1,124 @@
+body{
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #285f96, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, white, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.form{
+    /* background-color: #151E29; */
+    background-color: #151e296c;
+    /* border: 3px solid #fff; */
+    border-radius: 10%;
+    width: 550px;
+    margin: 20px auto;
+    padding: 15px;
+    /* height: 600px; */
+}
+
+.reset-pwd{
+    color: white;
+}
+.login_form{
+    background-color: #151e296c;
+    border-radius: 10%;
+    width: 450px;
+    margin: 20px auto;
+    padding: 15px;
+    /* height: 600px; */
+}
+
+.form-body{
+    text-align: left;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form_input{
+    width: 60%;
+    padding: 2% 2%;
+    border-radius: 10%;
+    border-radius: 30%;
+
+}
+
+input{
+    border-radius: 0 2em;
+  padding: 2px 10px;
+  width: 100%;
+  border: none;
+  line-height: 2em;
+  margin-bottom: 20px;
+}
+
+.button{
+    text-align: center;
+}
+
+.head{
+    text-align: center;
+}
+*{
+    padding:0;
+    margin:0;
+}
+
+.container{
+    height:100vh;
+    background-color:#ccc;
+    position:relative;
+}
+
+.container .sidebar{
+    position:fixed;
+    background-color:#fff;
+    height:100vh;
+    width:90px;
+    z-index:10;
+    text-align:center;
+    box-shadow:0px 15px 30px rgba(0,0,0,0.1);
+}
+.sidebar li:nth-child(1){
+    padding:30px 0px;
+}
+
+
+.sidebar li:hover:nth-child(1){
+    padding:30px 0px;
+    background-color:transparent;
+    color:#000;
+}
+
+.sidebar li{
+    padding:12px;
+    cursor:pointer;
+    transition:all 0.5s;
+    letter-spacing:1px;
+    display:flex;
+    flex-direction:column;
+}
+
+.sidebar li span:nth-child(1){
+    font-size:20px;
+}
+
+.sidebar li span:nth-child(2){
+    font-size:10px;
+}
+
+.sidebar li:hover{
+    background-color:#f2f2f2;
+    padding:12px;
+     
+}
+
+.container .content{
+    
+    padding-left:75px;
+}

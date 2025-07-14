@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+a{
+  text-decoration: none;
+  padding: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("tweetbg-1.jpg") !important;
+   background-attachment: fixed !important;
+   background-size: cover !important;
+   background-repeat: no-repeat !important;
+   background-position: center center !important;
+}
+
+
+div#root{
+  width: 100%;
+  height: 100%;
+  /* background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("twitter_bg.jpg"); */
+  /* background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("tweetbg-1.jpg"); */
+  /* background-image: url("twitter_bg.jpg"); */
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; */
+}

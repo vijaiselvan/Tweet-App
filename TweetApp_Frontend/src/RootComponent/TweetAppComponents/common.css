@@ -1,0 +1,47 @@
+.navbar_wrapper{
+    padding: 12px;
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    background-color: aquamarine;
+}
+.navbar_wrapper a{
+    text-decoration: none;
+
+}
+
+#profile Label{
+color: white;
+}
+
+.footer{
+    margin-top: 1rem;
+    padding: 7px;
+    background: #b9d9ec;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+    color: black;
+}
+/* 
+.user-detail{
+    box-sizing: border-box;
+    float: center;
+    border-radius: 8px;
+    margin-left: 20px;
+    width: 300px;
+    height: 200px;
+} */
+
+.input-group{
+    float: center;
+}
+
+#user-card .user{
+    font-size: 22px;
+    font-weight: bold;
+    padding:10px 10px ;
+    padding-bottom: 0;
+}

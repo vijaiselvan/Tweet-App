@@ -1,0 +1,55 @@
+.post-tweet{
+    border: 0 #151e2900;
+}
+
+#card{
+    background-color: #151e29a8 !important;
+    color: white;
+}
+
+#exampleText, #TweetTag{
+    background-color: #151e29;
+    color: white;
+}
+
+#btn{
+    background-color: #00acee;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.842) !important;
+    color: black;
+}
+
+.user-name {
+    font-size: 22px;
+    font-weight: bold;
+    padding:10px 10px ;
+}
+
+.tweet-tag {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px 10px;
+}
+
+.like:hover{
+    cursor: pointer;
+}
+
+.reply{
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+.posting{
+    
+  position: fixed;
+  right: -350px;
+}
+
+#card #user-small{
+    font-size: 3px !important;
+}
