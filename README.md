@@ -79,7 +79,7 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
 - 🔧 **Tools Used**: IntelliJ, VS Code, Git, Postman, PuTTY, MongoDB Compass
 
 ## 🚀 Run Locally
-Requirements: Java 17+, Node.js, MongoDB, Maven
+Requirements: Java 8+, Node.js, MongoDB, Maven
 
 # Clone the repository
 ```bash
