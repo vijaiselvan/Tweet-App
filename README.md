@@ -57,9 +57,10 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
   "username": "vijay",
   "contactNumber": "8825411203"
 }
-
+```
 ### 🐦 Tweet Collection
 
+```json
 {
   "tweetTag": "#PositiveVibes #Motivation",
   "tweet": "🌟 Every day is a fresh start. Take a deep breath...",
@@ -68,4 +69,33 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
   "like": 0,
   "tweetReply": []
 }
+```
+
+## 🌐 Deployment Architecture
+
+- ⚙️ **Backend**: Java Spring Boot APIs hosted on **AWS Elastic Beanstalk**
+- 🗃️ **Database**: MongoDB hosted on **AWS EC2**, accessed via **PuTTY SSH**
+- 🖼️ **Frontend**: ReactJS served locally *(or can be deployed via Netlify/EC2)*
+- 📁 **Static Assets**: Stored in **AWS S3** 
+- 🔧 **Tools Used**: IntelliJ, VS Code, Git, Postman, PuTTY, MongoDB Compass
+
+## 🚀 Run Locally
+Requirements: Java 17+, Node.js, MongoDB, Maven
+
+# Clone the repository
+git clone https://github.com/your-username/tweet-app.git
+
+# Backend Setup
+cd backend
+mvn clean install
+java -jar target/tweet-app.jar
+
+# Frontend Setup
+cd ../frontend
+npm install
+npm start
+
+
+
+
 
