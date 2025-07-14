@@ -57,3 +57,15 @@ It allows users to register, log in, post/edit/delete tweets, like/reply to post
   "username": "vijay",
   "contactNumber": "8825411203"
 }
+
+### 🐦 Tweet Collection
+
+{
+  "tweetTag": "#PositiveVibes #Motivation",
+  "tweet": "🌟 Every day is a fresh start. Take a deep breath...",
+  "username": "vijay",
+  "createdDate": "2025-07-14T11:19:02.674Z",
+  "like": 0,
+  "tweetReply": []
+}
+
