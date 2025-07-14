@@ -119,9 +119,9 @@ npm start
 
 ## 👨‍💻 Contact
 
-**Vijai S**  
+**Vijai Selvan**  
 📧 vijaiselvanvj@gmail.com  
-🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/vijai-selvan/))  
+🌐 [LinkedIn](https://www.linkedin.com/in/vijai-selvan/)
 📂 [Portfolio](https://vijaiselvan.github.io/portfolio/)
 
 
