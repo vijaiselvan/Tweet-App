@@ -120,7 +120,7 @@ npm start
 ## 👨‍💻 Contact
 
 **Vijai Selvan**  
-📧 vijaiselvanvj@gmail.com  
+📧 vijayselvanvj@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/vijai-selvan/)
 📂 [Portfolio](https://vijaiselvan.github.io/portfolio/)
 
